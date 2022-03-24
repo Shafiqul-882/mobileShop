@@ -1,0 +1,40 @@
+.items{
+  list-style: none;
+  margin-right: 20px;
+  font-size: 15px;
+  font-weight: 800;
+  cursor: pointer;
+  text-decoration: none;
+  color: #212529;
+  
+  
+}
+.header{
+  font-weight: 800;
+  color: #212529 !important;
+  margin-top: 15px;
+  
+
+ 
+}
+.header:hover{
+  color: rgb(30, 136, 230) !important;
+}
+.items:hover{
+  color:rgb(30, 136, 230) ;
+}
+.navitem {
+  color:black;
+  text-decoration: none;
+  margin: 0 8px;
+}
+
+.size {
+  width: 350px;
+  margin: 0 auto;
+}
+
+.searchbutton {
+  background-color: white;
+}
+/* git checkout -b [branch name]	 */

@@ -1,0 +1,23 @@
+.Carousel{
+    bottom: 250px;
+  
+}
+.Carousel-1{
+    margin-top: -250px;
+}
+.Carousel-2{
+    bottom: 220px;
+    margin-left: -800px;
+}
+.height{
+    height: 110vh;
+}
+.Navbar{
+    position: relative;
+    width: 100%;
+    z-index: 999;
+}
+.item{
+    color: #212529;
+    font-weight: 700;
+}

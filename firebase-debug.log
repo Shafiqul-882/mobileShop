@@ -1,0 +1,25 @@
+[debug] [2022-03-23T15:02:22.933Z] ----------------------------------------------------------------------
+[debug] [2022-03-23T15:02:22.935Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\shafi\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-03-23T15:02:22.936Z] CLI Version:   10.4.2
+[debug] [2022-03-23T15:02:22.936Z] Platform:      win32
+[debug] [2022-03-23T15:02:22.936Z] Node Version:  v16.14.2
+[debug] [2022-03-23T15:02:22.937Z] Time:          Wed Mar 23 2022 21:02:22 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-03-23T15:02:22.937Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-23T15:02:22.945Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-03-23T15:02:22.945Z] > authorizing via signed-in user (shafiqulsumon882@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\final_year_project_main\sumon_projects\mobilehut-group-project-sumon-client
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
